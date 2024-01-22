@@ -14,7 +14,7 @@ Welcome to my Github profile! I'm a problem solver at heart, and I love tackling
 ## Contact ##
 If you'd like to get in touch with me, feel free to reach out to me. I'm always open to discussing new projects and ideas!
 
-Links: www.justinpoulose.com
-LinkedIn: www.linkedin.com/in/justin-poulose
+- Links: www.justinpoulose.com
+- LinkedIn: www.linkedin.com/in/justin-poulose
 
 Thanks for stopping by!
